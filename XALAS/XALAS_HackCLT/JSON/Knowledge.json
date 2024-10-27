@@ -1,0 +1,455 @@
+{
+    "report_info": {
+        "title": "2024 Global Financial Inclusion Index",
+        "description": "Tracking progress in financial inclusion and security across global economies.",
+        "year": 2024
+    },
+    "overall_results": {
+        "top_10_markets": [
+            "Singapore", "Hong Kong", "South Korea", "Switzerland", "Sweden", 
+            "Denmark", "United States", "Thailand", "Australia", "Norway"
+        ],
+        "bottom_10_markets": [
+            "Mexico", "Turkey", "Kenya", "Indonesia", "South Africa", 
+            "Italy", "Colombia", "Nigeria", "Peru", "Ghana"
+        ],
+        "overall_improvement": "32 markets showed annual improvements, with Latin America leading.",
+        "us_rank_change": "The US dropped from 4th to 7th while maintaining its score."
+    },
+    "pillars": {
+        "government_support": {
+            "top_10": [
+                "Singapore", "Switzerland", "Hong Kong", "Norway", "Ireland", 
+                "Denmark", "Sweden", "Australia", "New Zealand", "The Netherlands"
+            ],
+            "bottom_10": [
+                "Kenya", "Indonesia", "South Africa", "Brazil", "Turkey", 
+                "Colombia", "India", "Peru", "Ghana", "Nigeria"
+            ],
+            "key_metrics": [
+                "public pensions", "deposit protection", "financial literacy", "vulnerable employment"
+            ]
+        },
+        "financial_system_support": {
+            "top_10": [
+                "Thailand", "South Korea", "Hong Kong", "Singapore", "Sweden", 
+                "United States", "Denmark", "United Kingdom", "Switzerland", "India"
+            ],
+            "bottom_10": [
+                "Mexico", "Poland", "South Africa", "Nigeria", "Indonesia", 
+                "Colombia", "Saudi Arabia", "Italy", "Peru", "Ghana"
+            ],
+            "key_metrics": [
+                "real-time transactions", "access to credit", "fintech quality", "SME growth"
+            ]
+        },
+        "employer_support": {
+            "top_10": [
+                "Singapore", "Vietnam", "India", "Thailand", "China", 
+                "Netherlands", "Switzerland", "Saudi Arabia", "New Zealand", "UAE"
+            ],
+            "bottom_10": [
+                "Peru", "Poland", "Australia", "Nigeria", "Germany", 
+                "Spain", "Italy", "United Kingdom", "Canada", "Japan"
+            ],
+            "key_metrics": [
+                "guidance on financial issues", "pension contributions", "insurance schemes", "pay initiatives"
+            ]
+        }
+    },
+    "regional_trends": {
+        "global_score_change": "+2.3 points (47.4 to 49.7)",
+        "top_performing_regions": [
+            "Latin America (+5.2)", "Western Europe (+4.0)", "Middle East (+4.7)"
+        ],
+        "lowest_improvements": [
+            "U.S. & Canada (+0.2)", "East Asia (+0.3)", "Africa (+0.1)"
+        ]
+    },
+    "key_themes": [
+        {
+            "theme": "Elevated financial inclusion amid economic stress",
+            "summary": "Efforts by governments and employers to support financial inclusion in tough economic times have led to improved scores in 32 markets."
+        },
+        {
+            "theme": "Fintech growth and savings culture",
+            "summary": "Increased fintech adoption has correlated with a greater culture of savings in several markets."
+        },
+        {
+            "theme": "Singapore’s leading position",
+            "summary": "Singapore has retained its top spot, showcasing the effectiveness of government and employer support."
+        },
+        {
+            "theme": "Role of employers in young Asian economies",
+            "summary": "Employers in economies like Thailand and Vietnam play a key role in supporting financial inclusion amid reduced government support."
+        },
+        {
+            "theme": "Government actions impacting voters",
+            "summary": "Populations are highly responsive to government actions regarding financial inclusion, as observed in election trends across countries."
+        },
+        {
+            "theme": "Latin America's progress",
+            "summary": "Argentina and other Latin American countries show significant improvements in financial inclusion."
+        }
+    ],
+    "country_spotlights": {
+        "US": {
+            "rank_change": "4th to 7th",
+            "reason": "A drop in employer and financial system support indicators despite a stable overall score."
+        },
+        "Germany": {
+            "rank_improvement": "19th",
+            "factors": [
+                "Improved government support", "Financial literacy initiatives", "Tax incentive reforms"
+            ]
+        },
+        "Singapore": {
+            "overall_rank": "1st",
+            "key_strengths": [
+                "Top in government and employer support", "High digital and financial literacy"
+            ]
+        },
+        "France": {
+            "rank_impact": "Decline in government support",
+            "factors": [
+                "Unpopular pension reforms", "Low scores in retirement finances"
+            ]
+        },
+        "Argentina": {
+            "rank_improvement": "+14 places",
+            "factors": [
+                "Strong performance in real-time payment adoption", "Improved access to digital financial systems"
+            ]
+        }
+    },
+    "reports": [
+        {
+            "company": "Principal Financial Group",
+            "reporting_period": "3rd Quarter 2024",
+            "highlights": {
+                "net_loss": {
+                    "amount": -220000000,
+                    "per_share": -0.95,
+                    "reason": "Loss from exited business"
+                },
+                "non_gaap_net_income": {
+                    "amount": 419000000,
+                    "per_share": 1.78,
+                    "exclusions": ["exited business"]
+                },
+                "non_gaap_operating_earnings": {
+                    "amount": 412000000,
+                    "per_share": 1.76,
+                    "excluding_significant_variances": {
+                        "adjusted_amount": 480000000,
+                        "adjusted_per_share": 2.05
+                    }
+                },
+                "capital_returned_to_shareholders": {
+                    "total_amount": 416000000,
+                    "share_repurchase": 251000000,
+                    "common_stock_dividends": 165000000
+                },
+                "dividend_increase": {
+                    "new_dividend_per_share": 0.73,
+                    "previous_dividend_per_share": 0.72,
+                    "payable_date": "December 18, 2024",
+                    "record_date": "December 2, 2024"
+                },
+                "assets": {
+                    "aum": 741000000000,
+                    "aua": 1700000000000
+                },
+                "financial_position": {
+                    "excess_available_capital": 1600000000
+                }
+            },
+            "executive_comment": {
+                "executive": "Dan Houston",
+                "title": "Chairman and CEO",
+                "statement": "Strong business fundamentals, continued growth, and positive markets generated strong earnings in the third quarter, and we continue to be confident in our full-year target. Our strategic focus on higher growth markets, combined with our integrated product portfolio and strong distribution relationships, continues to create value and drive growth for customers and shareholders."
+            }
+        },
+        {
+            "company": "Fidelity Investments",
+            "reporting_period": "Q2 2024",
+            "overview": {
+                "growth": "Continued strong growth in customers, accounts, and assets."
+            },
+            "by_the_numbers": {
+                "assets_under_administration": {
+                    "Q2_24": 14.1,
+                    "year_over_year_increase": 20,
+                    "Q2_23": 11.7,
+                    "unit": "trillion"
+                },
+                "discretionary_assets": {
+                    "Q2_24": 5.5,
+                    "year_over_year_increase": 22,
+                    "Q2_23": 4.5,
+                    "unit": "trillion"
+                },
+                "customer_growth": {
+                    "individual_customers": {
+                        "total": 51.5,
+                        "net_increase": 3.3,
+                        "unit": "million"
+                    },
+                    "customer_accounts": {
+                        "total": 84.9,
+                        "net_increase": 7.0,
+                        "unit": "million"
+                    }
+                },
+                "customer_engagement": {
+                    "planning_interactions": {
+                        "total": 5.5,
+                        "year_over_year_increase": 10,
+                        "unit": "million"
+                    },
+                    "appointments": {
+                        "total": 1.3,
+                        "year_over_year_increase": 11,
+                        "unit": "million"
+                    },
+                    "digital_engagement": {
+                        "total": 26.4,
+                        "year_over_year_increase": 15,
+                        "unit": "million"
+                    },
+                    "social_media_interactions": {
+                        "total": 0.776,
+                        "year_over_year_increase": 68,
+                        "unit": "million"
+                    },
+                    "daily_average_trades": {
+                        "total": 3.3,
+                        "year_over_year_increase": 34,
+                        "unit": "million"
+                    },
+                    "green_client_score": {
+                        "total": 98.8,
+                        "year_over_year_increase": 0.4
+                    }
+                }
+            },
+            "highlights": [
+                "Reached 75% in Fidelity’s Customer Experience Index, marking the highest score in the past seven quarters.",
+                "Assisted over 24 million customers in preparation for the April tax deadline.",
+                "Launched three actively managed liquid alternative ETFs, expanding the ETF offerings to 70 as of June 2024.",
+                "Expanded the proprietary separately managed account (SMA) market share with six new SMA options.",
+                "Strengthened partnership with Envestnet for a unified wealth and advisory platform.",
+                "Introduced The Growth HubSM, offering resources for financial advisors to support organic growth."
+            ],
+            "awards_and_recognition": [
+                {
+                    "name": "LinkedIn",
+                    "achievement": "Ranked in the top 20 LinkedIn Top Companies 2024"
+                },
+                {
+                    "name": "ETF.com",
+                    "achievement": "Fidelity® Disruptive Technology ETF awarded Best New U.S. Equity ETF"
+                },
+                {
+                    "name": "AmbitionBox",
+                    "achievement": "Ranked #5 in Top Financial Services Companies to Work For in 2024 Employee Choice Awards"
+                },
+                {
+                    "name": "Sunday Independent & Statista",
+                    "achievement": "Recognized as one of Ireland’s Best Employers in 2024"
+                },
+                {
+                    "name": "Disability Equality Index",
+                    "achievement": "Achieved top score (100) for best workplace for people with disabilities"
+                }
+            ]
+        },
+        {
+            "company": "Lincoln National Corporation",
+            "reporting_period": "2nd Quarter 2024",
+            "financial_highlights": {
+                "net_income": {
+                    "amount": 884000000,
+                    "per_share": 5.11,
+                    "description": "Net income available to common stockholders"
+                },
+                "adjusted_operating_income": {
+                    "amount": 319000000,
+                    "per_share": 1.84,
+                    "description": "Adjusted operating income available to common stockholders"
+                },
+                "primary_differences": [
+                    {
+                        "amount": 436000000,
+                        "per_share": 2.52,
+                        "description": "Gain from the sale of Lincoln's wealth management business"
+                    },
+                    {
+                        "amount": 198000000,
+                        "per_share": 1.15,
+                        "description": "Non-economic impact due to market risk benefits from increased interest rates and equity markets"
+                    }
+                ],
+                "rbc_ratio": "Above 420%"
+            },
+            "ceo_comment": {
+                "name": "Ellen Cooper",
+                "title": "Chairman, President and CEO",
+                "statement": "Our second quarter results were solid and exceeded our expectations as we continued to execute on our strategic priorities. Group Protection delivered results in line with its record prior-year quarter. Annuities earnings grew by 10%, producing strong sales growth. Retirement Plan Services earnings improved sequentially, and our Life business sales are stabilizing."
+            },
+            "business_segments": {
+                "group_protection": {
+                    "operating_income": 130000000,
+                    "growth_rate": "19%",
+                    "adjusted_operating_income": 107000000,
+                    "margin": "8.2%",
+                    "premiums_growth": "3%"
+                },
+                "annuities": {
+                    "operating_income": 297000000,
+                    "growth_rate": "10%",
+                    "sales": 3800000000,
+                    "account_balance_growth": "5%"
+                },
+                "life_insurance": {
+                    "operating_loss": -35000000,
+                    "prior_year_income": 33000000,
+                    "adjusted_operating_income": 4000000,
+                    "sales_decline_rate": "15%",
+                    "sequential_sales_growth": "15%",
+                    "account_balance": 43000000000
+                },
+                "retirement_plan_services": {
+                    "operating_income": 40000000,
+                    "year_over_year_decline": "15%",
+                    "sequential_growth": "11%",
+                    "ending_account_balance": 108000000000,
+                    "deposits_growth_rate": "13%",
+                    "recurring_deposits_growth_rate": "18%"
+                }
+            },
+            "earnings_summary": {
+                "net_income": {
+                    "q2_2023": 502000000,
+                    "q2_2024": 884000000,
+                    "per_diluted_share_q2_2023": 2.94,
+                    "per_diluted_share_q2_2024": 5.11
+                },
+                "adjusted_income_from_operations": {
+                    "q2_2023": 354000000,
+                    "q2_2024": 330000000,
+                    "per_share_q2_2023": 2.02,
+                    "per_share_q2_2024": 1.84
+                }
+            },
+            "capital_and_liquidity": {
+                "holding_company_liquidity": 463000000,
+                "rbc_ratio": ">420%",
+                "book_value_per_share": {
+                    "including_aoci": 40.78,
+                    "excluding_aoci": 66.37,
+                    "adjusted_book_value": 68.51
+                }
+            },
+            "segment_highlights": {
+                "annuities": {
+                    "income_from_operations": 297000000,
+                    "sales": 3800000000,
+                    "net_outflows": -950000000,
+                    "average_account_balance": 158370000000
+                },
+                "life_insurance": {
+                    "operating_loss": -35000000,
+                    "average_account_balance": 43230000000,
+                    "total_sales": 105000000
+                },
+                "group_protection": {
+                    "income_from_operations": 130000000,
+                    "insurance_premiums": 1298000000,
+                    "loss_ratio": "70.1%"
+                },
+                "retirement_plan_services": {
+                    "income_from_operations": 40000000,
+                    "total_deposits": 3282000000,
+                    "average_account_balance": 106374000000
+                }
+            }
+        },
+        {
+            "company": "Lincoln National Corporation",
+            "reporting_period": "Q2 2024",
+            "date": "01-Aug-2024",
+            "corporate_participants": [
+                {
+                    "name": "Tina Madon",
+                    "title": "Senior Vice President & Head-Investor Relations"
+                },
+                {
+                    "name": "Ellen Gail Cooper",
+                    "title": "Chairman, President & Chief Executive Officer"
+                },
+                {
+                    "name": "Christopher M. Neczypor",
+                    "title": "Executive Vice President & Chief Financial Officer"
+                }
+            ],
+            "objectives": [
+                "Build upon a strong capital foundation for stability and support investment",
+                "Optimize operating model to maximize resources",
+                "Deliver profitable growth to improve cash flow and grow the franchise"
+            ],
+            "financial_highlights": {
+                "estimated_rbc_ratio": ">420%",
+                "divestiture": {
+                    "business": "Wealth management",
+                    "estimated_benefit": 650000000,
+                    "impact": "Improvement in RBC ratio and reduced debt"
+                },
+                "net_income": {
+                    "amount": 884000000,
+                    "per_share": 5.11
+                },
+                "adjusted_operating_income": {
+                    "amount": 319000000,
+                    "per_share": 1.84
+                }
+            },
+            "business_segment_performance": {
+                "annuities": {
+                    "operating_income": 297000000,
+                    "growth_rate": "10%",
+                    "sales": 3800000000
+                },
+                "group_protection": {
+                    "operating_income": 130000000,
+                    "margin": "10%",
+                    "premiums_growth": "3%",
+                    "sales_growth": "68%"
+                },
+                "life_insurance": {
+                    "operating_loss": -35000000,
+                    "sales_growth": "15%"
+                },
+                "retirement_plan_services": {
+                    "operating_income": 40000000,
+                    "account_balance": 108000000000
+                }
+            },
+            "strategic_updates": [
+                {
+                    "initiative": "Establishment of Bermuda-based subsidiary (LPINE)",
+                    "purpose": "Increase reinsurance capacity and support free cash flow"
+                },
+                {
+                    "initiative": "Optimized general account portfolio",
+                    "details": "Increased investment in structured products with improved yields"
+                },
+                {
+                    "initiative": "Capital foundation built on a 420% RBC ratio",
+                    "goal": "Provide flexibility and resilience in market cycles"
+                }
+            ],
+            "ceo_comment": "Our Q2 results were solid and exceeded expectations as we executed strategic priorities. Group Protection delivered results in line with the record prior year, with growth in Annuities and sequential improvements in Retirement Plan Services."
+        }
+    ]
+}

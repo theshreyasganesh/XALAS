@@ -1,0 +1,207 @@
+{
+    "report_info": {
+        "title": "2024 Global Financial Inclusion Index",
+        "description": "Tracking progress in financial inclusion and security across global economies.",
+        "year": 2024
+    },
+    "overall_results": {
+        "top_10_markets": [
+            "Singapore",
+            "Hong Kong",
+            "South Korea",
+            "Switzerland",
+            "Sweden",
+            "Denmark",
+            "United States",
+            "Thailand",
+            "Australia",
+            "Norway"
+        ],
+        "bottom_10_markets": [
+            "Mexico",
+            "Turkey",
+            "Kenya",
+            "Indonesia",
+            "South Africa",
+            "Italy",
+            "Colombia",
+            "Nigeria",
+            "Peru",
+            "Ghana"
+        ],
+        "overall_improvement": "32 markets showed annual improvements, with Latin America leading.",
+        "us_rank_change": "The US dropped from 4th to 7th while maintaining its score."
+    },
+    "pillars": {
+        "government_support": {
+            "top_10": [
+                "Singapore",
+                "Switzerland",
+                "Hong Kong",
+                "Norway",
+                "Ireland",
+                "Denmark",
+                "Sweden",
+                "Australia",
+                "New Zealand",
+                "The Netherlands"
+            ],
+            "bottom_10": [
+                "Kenya",
+                "Indonesia",
+                "South Africa",
+                "Brazil",
+                "Turkey",
+                "Colombia",
+                "India",
+                "Peru",
+                "Ghana",
+                "Nigeria"
+            ],
+            "key_metrics": [
+                "public pensions",
+                "deposit protection",
+                "financial literacy",
+                "vulnerable employment"
+            ]
+        },
+        "financial_system_support": {
+            "top_10": [
+                "Thailand",
+                "South Korea",
+                "Hong Kong",
+                "Singapore",
+                "Sweden",
+                "United States",
+                "Denmark",
+                "United Kingdom",
+                "Switzerland",
+                "India"
+            ],
+            "bottom_10": [
+                "Mexico",
+                "Poland",
+                "South Africa",
+                "Nigeria",
+                "Indonesia",
+                "Colombia",
+                "Saudi Arabia",
+                "Italy",
+                "Peru",
+                "Ghana"
+            ],
+            "key_metrics": [
+                "real-time transactions",
+                "access to credit",
+                "fintech quality",
+                "SME growth"
+            ]
+        },
+        "employer_support": {
+            "top_10": [
+                "Singapore",
+                "Vietnam",
+                "India",
+                "Thailand",
+                "China",
+                "Netherlands",
+                "Switzerland",
+                "Saudi Arabia",
+                "New Zealand",
+                "UAE"
+            ],
+            "bottom_10": [
+                "Peru",
+                "Poland",
+                "Australia",
+                "Nigeria",
+                "Germany",
+                "Spain",
+                "Italy",
+                "United Kingdom",
+                "Canada",
+                "Japan"
+            ],
+            "key_metrics": [
+                "guidance on financial issues",
+                "pension contributions",
+                "insurance schemes",
+                "pay initiatives"
+            ]
+        }
+    },
+    "regional_trends": {
+        "global_score_change": "+2.3 points (47.4 to 49.7)",
+        "top_performing_regions": [
+            "Latin America (+5.2)",
+            "Western Europe (+4.0)",
+            "Middle East (+4.7)"
+        ],
+        "lowest_improvements": [
+            "U.S. & Canada (+0.2)",
+            "East Asia (+0.3)",
+            "Africa (+0.1)"
+        ]
+    },
+    "key_themes": [
+        {
+            "theme": "Elevated financial inclusion amid economic stress",
+            "summary": "Efforts by governments and employers to support financial inclusion in tough economic times have led to improved scores in 32 markets."
+        },
+        {
+            "theme": "Fintech growth and savings culture",
+            "summary": "Increased fintech adoption has correlated with a greater culture of savings in several markets."
+        },
+        {
+            "theme": "Singapore\u2019s leading position",
+            "summary": "Singapore has retained its top spot, showcasing the effectiveness of government and employer support."
+        },
+        {
+            "theme": "Role of employers in young Asian economies",
+            "summary": "Employers in economies like Thailand and Vietnam play a key role in supporting financial inclusion amid reduced government support."
+        },
+        {
+            "theme": "Government actions impacting voters",
+            "summary": "Populations are highly responsive to government actions regarding financial inclusion, as observed in election trends across countries."
+        },
+        {
+            "theme": "Latin America's progress",
+            "summary": "Argentina and other Latin American countries show significant improvements in financial inclusion."
+        }
+    ],
+    "country_spotlights": {
+        "US": {
+            "rank_change": "4th to 7th",
+            "reason": "A drop in employer and financial system support indicators despite a stable overall score."
+        },
+        "Germany": {
+            "rank_improvement": "19th",
+            "factors": [
+                "Improved government support",
+                "Financial literacy initiatives",
+                "Tax incentive reforms"
+            ]
+        },
+        "Singapore": {
+            "overall_rank": "1st",
+            "key_strengths": [
+                "Top in government and employer support",
+                "High digital and financial literacy"
+            ]
+        },
+        "France": {
+            "rank_impact": "Decline in government support",
+            "factors": [
+                "Unpopular pension reforms",
+                "Low scores in retirement finances"
+            ]
+        },
+        "Argentina": {
+            "rank_improvement": "+14 places",
+            "factors": [
+                "Strong performance in real-time payment adoption",
+                "Improved access to digital financial systems"
+            ]
+        }
+    }
+}
